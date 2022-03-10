@@ -1,4 +1,6 @@
 ### Hi there, I'm Jahanzaib 👋 A Software Developer. 
+![](https://komarev.com/ghpvc/?username=jahanzaibsheikh830)
+
 ---
 
 ### Portfolio:
