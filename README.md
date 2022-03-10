@@ -47,7 +47,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzaibsheikh830&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzaibsheikh830&layout=compact)]
 
 
 <img align="left" alt="Thanks" src="https://raw.githubusercontent.com/dibyendu415/dibyendu415/master/marquee.svg" />
