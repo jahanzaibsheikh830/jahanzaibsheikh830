@@ -5,18 +5,18 @@
 
 ### Portfolio:
 <ul>
-<li><a href="https://parking-app-react.herokuapp.com/" target="blank">Parking Booking App</a> - Live - <a href="https://github.com/jahanzaibsheikh830/Parking-Booking_App-React" target="blank">Repo</a></li>
-<li><a href="https://ecommerce-ui-next.vercel.app/" target="blank">Bazar E-commerce UI</a> - Live - <a href="https://github.com/jahanzaibsheikh830/ecommerce-ui-next" target="blank">Repo</a></li>
-<li><a href="https://realtime-twitter-jahanzaib.herokuapp.com/" target="blank">Realtime Post App</a> - Live - <a href="https://github.com/jahanzaibsheikh830/realtime-twitter" target="blank">Repo</a></li>
-<li><a href="https://login-system-jahan.herokuapp.com/#/" target="blank">Sweet Shop App</a> - Live - <a href="https://github.com/jahanzaibsheikh830/Shop-app-react" target="blank">Repo</a></li>
+<li><a href="https://parking-app-react.herokuapp.com/" target="_blank">Parking Booking App</a> - Live - <a href="https://github.com/jahanzaibsheikh830/Parking-Booking_App-React" target="blank">Repo</a></li>
+<li><a href="https://ecommerce-ui-next.vercel.app/" target="_blank">Bazar E-commerce UI</a> - Live - <a href="https://github.com/jahanzaibsheikh830/ecommerce-ui-next" target="blank">Repo</a></li>
+<li><a href="https://realtime-twitter-jahanzaib.herokuapp.com/" target="_blank">Realtime Post App</a> - Live - <a href="https://github.com/jahanzaibsheikh830/realtime-twitter" target="blank">Repo</a></li>
+<li><a href="https://login-system-jahan.herokuapp.com/#/" target="_blank">Sweet Shop App</a> - Live - <a href="https://github.com/jahanzaibsheikh830/Shop-app-react" target="blank">Repo</a></li>
 </ul>
 
 ### Connect with me:
 
 
-<a href="https://www.instagram.com/_jahanzaib__/" target="blank"><img align="left" alt="Instagram" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" /></a>
-<a href="https://www.facebook.com/sheikh.jahanzaib.94" target="blank"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://www.linkedin.com/in/muhammad-jahanzaib1/?originalSubdomain=pk" target="blank"><img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/_jahanzaib__/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" /></a>
+<a href="https://www.facebook.com/sheikh.jahanzaib.94" target="_blank"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href="https://www.linkedin.com/in/muhammad-jahanzaib1/?originalSubdomain=pk" target="_blank"><img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <br />
 
 ---
